@@ -1,5 +1,5 @@
 var should = require("should");
-var User = require("../models/user");
+var User = require("../models/user1");
 
 describe("User", function(){
   

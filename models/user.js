@@ -1,5 +1,5 @@
 var assert = require("assert");
-var utility = require("../lib/utility");
+var utility = require("../lib/utility1");
 
 //Our user prototype. This exports a Constructor that you must call,
 //this should never export an instance as it will be cached by NPM

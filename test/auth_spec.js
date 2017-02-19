@@ -1,7 +1,7 @@
-var Registration = require("../lib/registration");
+var Registration = require("../lib/registration1");
 var db = require("secondthought");
 var assert = require("assert");
-var Auth = require("../lib/authentication");
+var Auth = require("../lib/authentication1");
 var should = require("should");
 
 describe("Authentication", function () {
